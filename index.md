@@ -7,3 +7,5 @@ To make editing easier, we use the markdown language, which is very simple to le
 All you need to do is create text files with the specified syntax and publish it. 
 Github Pages will automatically convert your text into properly formated HTML.
 here is a document that will help you learn [Markdown syntax](https://guides.github.com/features/mastering-markdown/)
+
+<button >Continue </button>
