@@ -6,7 +6,9 @@
 - Music
 - Football
 
-``` Use this as a template to create your intro page
+``` 
+Use this as a template to create your intro page
+
 # heading
 [github profile name](github profile url)
 ### Hobbies
