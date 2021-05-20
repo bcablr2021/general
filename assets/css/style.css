@@ -19,7 +19,7 @@ small{font-size:80%}
 sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
 sup{top:-0.5em}
 sub{bottom:-0.25em}
-img{border:0}
+img{border: 1px solid #eee;box-shadow: 0 2px 6px rgb(0 0 0 / 30%);}
 svg:not(:root){overflow:hidden}
 figure{margin:1em 40px}
 hr{box-sizing:content-box;height:0}
