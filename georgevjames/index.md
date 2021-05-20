@@ -14,7 +14,7 @@
 - hobby 2
 - hobby 3
 
-Any other text
+Any other text.
 
 ```
 
