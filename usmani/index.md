@@ -1,7 +1,10 @@
-<h2>Introduction and Disclaimer :</h2>
+<h1>WARNING : Solved Assignments are to be used only as a reference</h1>
 
-....................................
+<h2>Introduction :</h2>
 
+Find your Login ID/Password for Microsoft Teams Here -
+
+https://mega.nz/file/7hREyZ7I#2esS_ZQzU2NPitAwSkPq-ZzZIw1bBnSKcLVXyzW3kZ8
 
 <br>
 
@@ -15,6 +18,10 @@
 3.Faculty
 
 4.Whatsapp Group Invitation Links
+
+Official Faculty - https://chat.whatsapp.com/IxKSuKOYyZr2j6msej4Vq0 
+<br>
+Un-Official Students - https://chat.whatsapp.com/GG943tmEK7HKL4cqMxjQpi
 
 
 <br>
@@ -38,17 +45,14 @@ Example -
 A subject from Arts Degree Program about English language which carries 4 Credits.
 
 <h3>Resources:</h3>
-<b>Assignment Questions</b> - LINK
 
-<b>Previous Years Question Papers</b> - LINK
+<b>Assignment Questions</b> - https://mega.nz/file/31xEybJI#KyEIWALsB4gA04nlzKE4NoFPxzD9xxdaYqjwNUTtOeA
 
-<b>Solved Assignments</b>(read disclaimer before blatantly copying) -
+<b>Previous Years Question Papers</b> - https://mega.nz/file/v54QBTKZ#iTAhFam3wiM9gmZkRaVNbzusi9oM_gygPAr4v4CNdsI
 
-LINK 1
+<b>Solved Assignments</b> -
 
-LINK 2
-
-LINK 3
+https://mega.nz/file/69gwxI4R#tg8x0vYbaMoaKwcN4ccyHd-zpVlP57AXkHe-0JpfnCY
 
 Study Resources
 
@@ -66,17 +70,14 @@ LINK 3
 A subject from Commerce Degree Program about Bussiness and Economy which carries 4 Credits.
 
 <h3>Resources:</h3>
-<b>Assignment Questions</b> - LINK
 
-<b>Previous Years Question Papers</b> - LINK
+<b>Assignment Questions</b> - https://mega.nz/file/vxxg3AxY#MmWBrM25bn88wdSs__GJmxQU7VZrXnXaaWW9pB-PJAc
 
-<b>Solved Assignments</b>(read disclaimer before blatantly copying) -
+<b>Previous Years Question Papers</b> - https://mega.nz/file/v5oAwAxI#IopZ_KCLxf5K-79aVFYEy64rSkPFBZRZ3l9a8QREnSI
 
-LINK 1
+<b>Solved Assignments</b> -
 
-LINK 2
-
-LINK 3
+https://mega.nz/file/L9oCTKgS#4pzvg34xPewPPTx7gjr7ukGn1B5NzRzRF7IcBvDijio
 
 Study Resources
 
@@ -94,17 +95,14 @@ LINK 3
 A subject from Computer Applications Degree Program about Computers and Software which carries 3 Credits.
 
 <h3>Resources:</h3>
-<b>Assignment Questions</b> - LINK
 
-<b>Previous Years Question Papers</b> - LINK
+<b>Assignment Questions</b> - https://mega.nz/file/u9wW2IoD#KooeABRzokYuI3YHKDsTjzKmUnaN8qOuMimqFxTj5VU
 
-<b>Solved Assignments</b>(read disclaimer before blatantly copying) -
+<b>Previous Years Question Papers</b> - https://mega.nz/file/m9oSCYaS#KV6ZDmCuNAw4OljP3-5FbPFcyUEKc98WGLH3WgWY9qI
 
-LINK 1
+<b>Solved Assignments</b> -
 
-LINK 2
-
-LINK 3
+https://mega.nz/file/Kgpi1QiK#G31eV5IdWTVbVXBLRCXJTY5H8bIIkouNuzqtDvIWjtk
 
 Study Resources
 
@@ -123,45 +121,36 @@ LINK 3
 A subject from Computer Applications Degree Program about Mathematics which carries 4 Credits.
 
 <h3>Resources:</h3>
-<b>Assignment Questions</b> - LINK
 
-<b>Previous Years Question Papers</b> - LINK
+<b>Assignment Questions</b> - https://mega.nz/file/Kpw2WKYL#jByiA2zE-eNGCUUP_AW5ZtVp_2d0YkWt7AJ1vgwHDvg
 
-<b>Solved Assignments</b>(read disclaimer before blatantly copying) -
+<b>Previous Years Question Papers</b> - https://mega.nz/file/yhoGQAAJ#zcZbuXWf0ocSRE31HkNjjbzVTRfcJWNKUtKJ7QjCla0
 
-LINK 1
+<b>Solved Assignments</b> -
 
-LINK 2
+https://mega.nz/file/rkp0RSLJ#Qk72DpxCF2kJXz0iXa1Y5Keuv2ykB6GumQCYQul7cJA
 
-LINK 3
+https://mega.nz/file/WxoQFCqQ#BgvDiep_-BJ25sZcrLVeBSp43Tp4ZsH_DwslckrhcP0
 
 Study Resources
 
-LINK 1
-
-LINK 2
-
-LINK 3
-
+https://mega.nz/file/WtgQWCoK#47JfXwvWsALs7DsgjGmWlCbFYUwlbIx6_eifySkrObY
 
 <br>
 
 
-<h2>BCSL-013 Computer Basics and PC Software Lab (2 Credits)</h2>
+<h2>BCSL-013 Computer Basics and PC Software Lab</h2>
 A LAB subject from Computer Applications Degree Program about Computers and Software which carries 2 Credits.
 
 <h3>Resources:</h3>
-<b>Assignment Questions</b> - LINK
 
-<b>Previous Years Question Papers</b> - LINK
+<b>Assignment Questions</b> - https://mega.nz/file/OpgCnQwY#1G2nj9Yla_3tDwS6PjormsocqXd714WoeNvbr5ZF268
 
-<b>Solved Assignments</b>(read disclaimer before blatantly copying) -
+<b>Previous Years Question Papers</b> - UNAVAILABLE
 
-LINK 1
+<b>Solved Assignments</b> -
 
-LINK 2
-
-LINK 3
+Matrix & Determinants PPT in PDF - https://mega.nz/file/D8pQ1S7R#-fuINR6PQdY5DvjWX6k4gXEaqnyGp_kZhn9ScAvRUyQ
 
 Study Resources
 
